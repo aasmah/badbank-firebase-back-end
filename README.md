@@ -21,8 +21,7 @@ from the terminal install dependencies using commad npm init.
 
 ##Screenshots:
 
-![terminal mongo  all users](https://github.com/aasmah/badbank-firebase-back-end/assets/35153854/e82901e8-9c1e-4ee9-a71e-24f4e05fdd76)
-![create account refactor](https://github.com/aasmah/badbank-firebase-back-end/assets/35153854/54ad2711-1518-4d67-b074-cf665374558a)
+![terminal mongo  all users](https://github.com/aasmah/badbank-firebase-back-end/assets/35153854/e82901e8-9c1e-4ee9-a71e-24f4e05fdd76
 
 
 #GIF in action
