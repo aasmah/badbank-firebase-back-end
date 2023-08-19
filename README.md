@@ -18,14 +18,23 @@ install dependencies using commad npm init.
 Run the Node server,
 node index.js,
 Navigate to http://localhost:3000/ to run the application,
+##package.json
+"dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.7.4"
+  }
+
+##technology stack...
+Express.
+React JS lib.
+MngoDB .
+Firebase. 
+Bootstrap.
+nodeJS.
 
 
-##technology stack
-Express
-React JS lib
-MngoDB 
-Firebase 
-Bootstrap
 
 
 ##Screenshots:
